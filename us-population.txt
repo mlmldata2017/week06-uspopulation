@@ -1,5 +1,5 @@
 U.S. Population in thousands
-From example in: Shapiro, B.E. (2016) Python Hacking for Math Junkies, Version 3.0, Chepter 38 - Nonlinear Regression
+From example in: Shapiro, B.E. (2016) Python Hacking for Math Junkies, Version 3.0, Chapter 38 - Nonlinear Regression
 YR,USPOP
 1790, 3929
 1800, 5308
